@@ -32,6 +32,8 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Acesse o projeto online aqui](https://klebsonamarantes.github.io/projeto-habits)
+
 ## 📝 Layout 
 
 Você pode vizualizar o layout através [DESSE LINK](https://www.figma.com/file/idCt6sqkfKtk8dwyNzmMyG/Habits-(e)-(Community)?node-id=6%3A910&t=Hv1GdHGWDSnZ3nO0-0) É necessário ter conta no [Figma](https://www.figma.com) para acessá-lo.
